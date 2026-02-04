@@ -3,12 +3,12 @@
     <channel>
         <title>Gesture Flow</title>
         <item>
-            <title>3.2.11</title>
-            <pubDate>Wed, 04 Feb 2026 10:48:17 +0000</pubDate>
-            <sparkle:version>331</sparkle:version>
-            <sparkle:shortVersionString>3.2.11</sparkle:shortVersionString>
+            <title>3.2.12</title>
+            <pubDate>Wed, 04 Feb 2026 11:25:19 +0000</pubDate>
+            <sparkle:version>332</sparkle:version>
+            <sparkle:shortVersionString>3.2.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/davidgreenspan15/GestureFlowMacApp/releases/download/v3.2.11/GestureFlow-3.2.11.dmg" length="2284162" type="application/octet-stream" sparkle:edSignature="UU+RyyTWLdCW48vNK8iKyxopyyKEgzl5S0X+yg6x1ynU/gg5CPqdDERCCfI9IsyKY/c2jU+fxmcwKrV/q3z9Bg=="/>
+            <enclosure url="https://github.com/davidgreenspan15/GestureFlowMacApp/releases/latest/download/GestureFlow.dmg" length="2281519" type="application/octet-stream" sparkle:edSignature="RNgAl19qDD74km8sVu4+7sXmM1Fnk+53S2AdbSUX7pX/qIp0IMMAGs9uUz3WoWJYg+ycR3cBK7fwuTigYUuQDg=="/>
         </item>
     </channel>
 </rss>
