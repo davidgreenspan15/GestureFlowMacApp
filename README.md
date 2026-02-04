@@ -5,6 +5,7 @@
 ## Highlights
 
 - **Touchless control**: Change volume and brightness with simple hand gestures.
+- **Gesture toggles**: Spidey sign to enable/disable gestures, peace sign to play/pause.
 - **Voice commands**: Speak to control media, system volume, and brightness.
 - **Wake word mode**: Add a custom wake word for extra safety.
 - **HUD + status indicators**: Real‑time on‑screen feedback.
@@ -34,6 +35,18 @@
 2. **Pinch** your **thumb + index finger** together to start tracking.
 3. **Slide up** to increase volume, **slide down** to decrease.
 4. Release the pinch to stop adjusting.
+
+**Play / Pause (peace sign)**
+1. Raise your **index + middle fingers** in a V shape.
+2. Keep **ring + pinky** folded down.
+3. Hold the pose for ~**0.6s**.
+4. This toggles **Play/Pause**.
+
+**Enable / Disable gestures (spidey sign)**
+1. Extend **thumb + index + pinky**.
+2. Keep **middle + ring** curled down.
+3. Hold the pose for ~**0.2s**.
+4. This toggles gesture control **On/Off**.
 
 **Status indicators**
 - Left indicator = brightness
