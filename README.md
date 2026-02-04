@@ -23,9 +23,26 @@
 
 ## Gestures
 
-- **Brightness**: Adjust with left‑hand gestures.
-- **Volume**: Adjust with right‑hand gestures.
-- **Status indicators** show live feedback for tracking and system changes.
+**Brightness (left hand)**
+1. Hold your **left hand** up with palm facing the camera.
+2. **Pinch** your **thumb + index finger** together to start tracking.
+3. **Slide up** to increase brightness, **slide down** to decrease.
+4. Release the pinch to stop adjusting.
+
+**Volume (right hand)**
+1. Hold your **right hand** up with palm facing the camera.
+2. **Pinch** your **thumb + index finger** together to start tracking.
+3. **Slide up** to increase volume, **slide down** to decrease.
+4. Release the pinch to stop adjusting.
+
+**Status indicators**
+- Left indicator = brightness
+- Right indicator = volume
+- Colors and labels reflect live tracking and changes.
+
+Tips
+- Keep your hand **centered** and **well‑lit** for best tracking.
+- If tracking drops, lower your hand and raise it again.
 
 ## Voice Commands
 
