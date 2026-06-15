@@ -3,12 +3,12 @@
     <channel>
         <title>Gesture Flow</title>
         <item>
-            <title>3.2.27</title>
-            <pubDate>Mon, 15 Jun 2026 20:30:26 +0000</pubDate>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>3.2.27</sparkle:shortVersionString>
+            <title>3.2.28</title>
+            <pubDate>Mon, 15 Jun 2026 21:19:19 +0000</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>3.2.28</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/davidgreenspan15/GestureFlowMacApp/releases/download/python-v3.2.27/GestureFlow.dmg" length="117243389" type="application/octet-stream" sparkle:edSignature="1OyzYu7mD7jHjNJ2nZt/naCcW3o0bnSSiRCF+W249F0hDyrrTsdveOnUa+KBCfhnjGJ6Qvt/BJ4b7pTS+S77CQ=="/>
+            <enclosure url="https://github.com/davidgreenspan15/GestureFlowMacApp/releases/download/python-v3.2.28/GestureFlow.dmg" length="117231228" type="application/octet-stream" sparkle:edSignature="qU3V3vGvf3WaPywnrfA/H2JQ1IcTz014WHSOwCpmZqmcYo0MyKcJwzUnXfPs6dQRaw5WXijtXBF3TglLPcC1Aw=="/>
         </item>
     </channel>
 </rss>
