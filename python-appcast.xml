@@ -1,14 +1,14 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Gesture Flow</title>
-        <item>
+        <item><title>Gesture Flow 3.2.29</title><pubDate>Tue, 27 Oct 2026 17:17:33 GMT</pubDate><sparkle:version>49</sparkle:version><sparkle:shortVersionString>3.2.29</sparkle:shortVersionString><sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/davidgreenspan15/GestureFlowMacApp/releases/download/python-v3.2.29/GestureFlow.dmg" length="114313993" type="application/octet-stream" sparkle:edSignature="cDho18dG8nx55IZ7xyZKpWhd8hfCVV5Bk8+QDScwcw7SqNFmmJcDSwsGVyetoIPqrNW9JyTsPdxbrJ59VsrsAg==" /></item><item>
             <title>3.2.28</title>
             <pubDate>Mon, 15 Jun 2026 21:19:19 +0000</pubDate>
             <sparkle:version>44</sparkle:version>
             <sparkle:shortVersionString>3.2.28</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/davidgreenspan15/GestureFlowMacApp/releases/download/python-v3.2.28/GestureFlow.dmg" length="117231228" type="application/octet-stream" sparkle:edSignature="qU3V3vGvf3WaPywnrfA/H2JQ1IcTz014WHSOwCpmZqmcYo0MyKcJwzUnXfPs6dQRaw5WXijtXBF3TglLPcC1Aw=="/>
+            <enclosure url="https://github.com/davidgreenspan15/GestureFlowMacApp/releases/download/python-v3.2.28/GestureFlow.dmg" length="117231228" type="application/octet-stream" sparkle:edSignature="qU3V3vGvf3WaPywnrfA/H2JQ1IcTz014WHSOwCpmZqmcYo0MyKcJwzUnXfPs6dQRaw5WXijtXBF3TglLPcC1Aw==" />
         </item>
     </channel>
 </rss>
